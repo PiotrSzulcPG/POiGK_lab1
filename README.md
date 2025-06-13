@@ -1,5 +1,6 @@
 # POiGK Laboratoria 1
 Projekt zmodyfikowany na potrzeby laboratoriów z POiGK.
+[Lab 2 w rozdziale poniżej](#POiGK Laboratoria 2)
 
 ## Przykładowy gameplay
 ![Animacja gry](example_video.gif)
@@ -22,3 +23,10 @@ Projekt zmodyfikowany na potrzeby laboratoriów z POiGK.
 4. Przejdź do ścieżki projektu za pomocą `cd ścieżka\do\projektu` zastępując ścieżka\do\projektu odpowiednią ścieżką
 5. Wpisz `build.bat -release` i naciśnij Enter
 6. Uruchom plik "build/Main.exe"
+
+
+# POiGK Laboratoria 2
+
+Dodano kontrolki do Gigi Viewera a następnie zmodyfikowano wartości dla unikalnego (niekoniecznie ładnego) efektu Shaderów
+
+![Zdjęcie z Gigi](Gigi_RGB_v2.jpg)
